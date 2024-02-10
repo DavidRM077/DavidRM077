@@ -15,9 +15,4 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
     <summary><h2 style="display: inline-block">Tecnologías</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,jupyter,figma,github,html,nodejs,py,react,redux,tailwind,vscode&perline=14" />
-  </a>
-</p>
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
