@@ -15,4 +15,4 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
     <summary><h2 style="display: inline-block">Tecnologías</h2></summary>
   </ul>
 </div>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
