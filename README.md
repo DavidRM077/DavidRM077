@@ -15,6 +15,11 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
     <summary><h2 style="display: inline-block">Tecnologías</h2></summary>
   </ul>
 </div>
+
+<div> 
+<img href="https://github-readme-stats.vercel.app/api?username=DavidRM077&theme=blue-green">
+</div>
+
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
