@@ -9,6 +9,8 @@
 Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por la tecnología. Mi enfoque se centra en crear soluciones innovadoras y eficientes que impulsen el cambio y mejoren la experiencia del usuario. Constantemente busco aprender y crecer en este siempre cambiante mundo tecnológico
 </p>
 
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -16,10 +18,6 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
   </ul>
 </div>
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
 
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -38,5 +36,14 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
   <img src="" alt="">
   <img src="" alt="">
 </div>
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 
