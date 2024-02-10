@@ -16,9 +16,10 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
   </ul>
 </div>
 
-<div> 
-<img href="https://github-readme-stats.vercel.app/api?username=DavidRM077&theme=blue-green">
-</div>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+</td>
 
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
