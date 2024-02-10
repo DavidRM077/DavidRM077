@@ -67,3 +67,8 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
 <a href="https://www.instagram.com/davidr07_/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
+<a href="mailto:davidrap087@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+
+<a href="https://www.linkedin.com/in/david-antonio-ramirez-mendez-3449a0220/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
