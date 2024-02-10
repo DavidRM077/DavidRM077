@@ -2,7 +2,7 @@
 <hr>
 
 <h4> FrontEnd & Analista de Datos </h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidRM077&label=Profile%20views&color=0e75b6&style=flat" alt="DavidRM077" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DavidRM077&label=Profile%20views&color=0e75b6&style=flat" alt="DavidRM077" /> </p> -->
 <hr>
 <h2> Sobre mi </h2>
 <p> 
@@ -15,4 +15,4 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
     <summary><h2 style="display: inline-block">Tecnologías</h2></summary>
   </ul>
 </div>
-<a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
