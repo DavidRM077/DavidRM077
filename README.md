@@ -44,12 +44,8 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
 
 | Tema | Plataforma | Enlace |
 |-----------|-----------|-----------|
-| * Supermarket basket analysis  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   |[Enlace](https://www.linkedin.com/posts/jasser-moreno-medina_analisis-de-basket-super-power-bi-activity-6994869685607350272-bXb_?utm_source=share&utm_medium=member_desktop) |
-| * Mapas Interactivos Python   | ![Texto alternativo](https://www.vectorlogo.zone/logos/python/python-icon.svg)  | [Enlace](https://www.youtube.com/watch?v=hmv6i9KBqsw&list=PLl0vFx8KRNdckH3FpyAruwFCAzHTEaGCD)  |
-| * Mapas Interactivos Google Earth Pro   | ![Texto alternativo](https://www.vectorlogo.zone/logos/google/google-ar21.svg)   | [Enlace](https://www.linkedin.com/feed/update/urn:li:activity:6600202573314093056/)   |
-| * Mapa Interactivo Python   | ![Texto alternativo](https://www.vectorlogo.zone/logos/python/python-icon.svg)  | [Enlace](https://www.linkedin.com/feed/update/urn:li:activity:6666728138808061952/)   |
-| * Mapa Interactivo QGIS  | ![Texto alternativo]()   | [Enlace](https://www.linkedin.com/feed/update/urn:li:activity:6711440696299065345/)   |
-| * Dashboard  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   | [Enlace](https://www.linkedin.com/feed/update/urn:li:activity:6738136037496823808/)   |
+| * Dashboard Interactivo: Panorama del Régimen Subsidiado de SeNaSa  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   |[Enlace](https://app.powerbi.com/links/xspW__bjvE?ctid=6a75c40c-8005-40e0-8405-d40293b63c7f&pbi_source=linkShare&bookmarkGuid=60b12453-5d32-4d2d-b5d3-99b428c3b80e) |
+
 
 
 <!--- stats & Trophy (start) -->
