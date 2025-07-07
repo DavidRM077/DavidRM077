@@ -45,6 +45,7 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
 | Tema | Plataforma | Enlace |
 |-----------|-----------|-----------|
 | * Dashboard Interactivo: Panorama del Régimen Subsidiado de SeNaSa  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   |[Enlace](https://app.powerbi.com/links/xspW__bjvE?ctid=6a75c40c-8005-40e0-8405-d40293b63c7f&pbi_source=linkShare&bookmarkGuid=60b12453-5d32-4d2d-b5d3-99b428c3b80e) |
+| * Consultas 2022-2024 Hospital Marcelino Velez Dashboard  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   |[Enlace](https://app.powerbi.com/links/EJtinYTy-g?ctid=6a75c40c-8005-40e0-8405-d40293b63c7f&pbi_source=linkShare) |
 
 
 
