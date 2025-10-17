@@ -47,7 +47,7 @@ Soy un apasionado Desarrollador Web y Analista de Datos con un profundo amor por
 |-----------|-----------|-----------|
 | * Dashboard Interactivo: Panorama del Régimen Subsidiado de SeNaSa  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   |[Enlace](https://app.powerbi.com/links/xspW__bjvE?ctid=6a75c40c-8005-40e0-8405-d40293b63c7f&pbi_source=linkShare&bookmarkGuid=60b12453-5d32-4d2d-b5d3-99b428c3b80e) |
 | * Consultas 2022-2024 Hospital Marcelino Velez Dashboard  | ![Texto alternativo](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg)   |[Enlace](https://app.powerbi.com/links/EJtinYTy-g?ctid=6a75c40c-8005-40e0-8405-d40293b63c7f&pbi_source=linkShare) |
-| * Demographic-Data-Analyzer| ![Texto alternativo](https://www.vectorlogo.zone/logos/python/python-ar21.svg)  |[Enlace](https://github.com/DavidRM077/Demographic-DatAnalyzer/tree/main) |
+| * Demographic-Data-Analyzer| ![Texto alternativo](https://www.vectorlogo.zone/logos/python/python-ar21.svg)  |[Enlace](https://github.com/DavidRM077/Demographic-Data-Analyzer/blob/main/Book.ipynb) |
 | * Analisis Parque Vehicular 2000-2024   | ![Texto alternativo](https://www.vectorlogo.zone/logos/python/python-ar21.svg)   |[Enlace](https://github.com/DavidRM077/Analisis-Parque-Vehicular-2000-2024/blob/main/ParqueVehicular.ipynb) |
 
 
